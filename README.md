@@ -1,6 +1,7 @@
-[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pranay Janjarla</h1>
 <h3 align="center">I'm a web developer from India!!!</h3>
+
+[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay-janjarla&label=Profile%20views&color=0e75b6&style=flat" alt="pranay-janjarla" /> </p>
 
