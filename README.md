@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranay Janjarla</h1>
-<h3 align="center">I'm a web developer from India!!!</h3>
+<h3 align="center">I'm a AI workflow developer and Web developer from India!!!</h3>
 
 [![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e)](https://rishavchanda.io)
 
@@ -13,17 +13,15 @@
 
 <p align="left"> <a href="https://twitter.com/pranayjanjarla_" target="blank"><img src="https://img.shields.io/twitter/follow/pranayjanjarla_?logo=twitter&style=for-the-badge" alt="pranayjanjarla_" /></a> </p>
 
-- 🔭 I’m currently working on [a chrome extension](https://drive.google.com/drive/folders/1uaDYwAXhJ5_C5apxFWJQtUosi-_mdVkf?usp=sharing)
+- 🔭 I’m currently working on a n8n Voice calling agent, calls clients, updates excel sheet and more.
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **AI Fine-tuning**
 
-- 👯 I’m looking to collaborate on [a live collaboration tool which is specifically designed for medical professionals](To be added)
+- 👯 I’m looking for a co-founder for managing Rene AI-workflow 
 
-- 🤝 I’m looking for help with [my chrome extension](https://drive.google.com/drive/folders/1uaDYwAXhJ5_C5apxFWJQtUosi-_mdVkf?usp=sharing)
+- 💬 Ask me about **AI and singing**
 
-- 💬 Ask me about **React and singing**
-
-- 📫 How to reach me **pranaymessi12345@gmail.com**
+- 📫 How to reach me **janjarlapranay82308@gmail.com**
 
 - ⚡ Fun fact **I like to sing!**
 
